@@ -1,0 +1,16 @@
+{
+  "name": "Двуручный Меч Авантюриста",
+  "primaryCharacteristic": "STRENGTH",
+  "description": "Меч выдающийся всем начинающим авантюристам",
+  "icon": "https://d1u5p3l4wpay3k.cloudfront.net/pathofexile_ru_gamepedia/a/aa/Two-Handed_Sword.png",
+  "slot": "RIGHTHAND",
+  "type": "TWOHAND",
+  "characteristics": {
+    "STRENGTH": 4
+  },
+  "mods": {
+    "agility": 0,
+    "strength": 0,
+    "magic": 0
+  }
+}

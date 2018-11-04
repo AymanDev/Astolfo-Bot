@@ -1,0 +1,16 @@
+{
+  "name": "Лук Авантюриста",
+  "primaryCharacteristic": "AGILITY",
+  "description": "Лук выдающийся всем начинающим авантюристам",
+  "icon": "http://gurps.iddqd.club/gurps_weapons/img/1910.png",
+  "slot": "RIGHTHAND",
+  "type": "BOW",
+  "characteristics": {
+    "AGILITY": 4
+  },
+  "mods": {
+    "agility": 0,
+    "strength": 0,
+    "magic": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Потерянный фолиант",
+  "primaryCharacteristic": "INTELLIGENCE",
+  "description": "Фолиант потерянный Великим Магом.",
+  "icon": "https://cdn.discordapp.com/attachments/474580173165953024/474580221408837642/kisspng-the-secret-book-of-shadows-magic-grimoire-magic-book-5ac023f9576546.png",
+  "slot": "ARTIFACT",
+  "type": "DEFAULT",
+  "characteristics": {
+    "INTELLIGENCE":10 
+  },
+  "mods": {
+    "agility": 0,
+    "strength": 0,
+    "magic": 1
+  }
+}

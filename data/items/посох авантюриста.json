@@ -1,0 +1,16 @@
+{
+  "name": "Посох Авантюриста",
+  "primaryCharacteristic": "INTELLIGENCE",
+  "description": "Посох выдающийся начинающим авантюристам.",
+  "icon": "https://cdna.artstation.com/p/assets/images/images/003/565/822/large/george-k-wizard-staff.jpg",
+  "slot": "RIGHTHAND",
+  "type": "STAFF",
+  "characteristics": {
+    "INTELLIGENCE":4
+  },
+  "mods": {
+    "agility": 0,
+    "strength": 0,
+    "magic": 0
+  }
+}

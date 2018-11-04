@@ -1,0 +1,19 @@
+{
+  "questData": {
+    "currentQuest": {
+      "money": 10000,
+      "minutes": 480,
+      "name": "Атака Черепах Сезон Первый",
+      "description": "Косплей на Атаку Титанов",
+      "completed": false,
+      "power": 1000,
+      "experience": 60000,
+      "escape": 0,
+      "win": 0,
+      "rewards":[
+        "двуручный меч авантюриста",
+        "лук авантюриста"
+      ]
+    }
+  }
+}
